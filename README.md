@@ -1,10 +1,10 @@
 ### Name:Karnan K
 ### Reg No:212222230062
 ### Date: 
-# EX.NO.09        A project on Time series analysis on Airline Baggage using ARIMA model 
+# EX.NO.09        A project on Time series analysis on project for forecasting using ARIMA model 
 
 ### AIM:
-To Create a project on Time series analysis on airline baggage using ARIMA model in  Python and compare with other models.
+To Create a project on Time series analysis on project for forecasting using ARIMA model in  Python and compare with other models.
 ### ALGORITHM:
 1. Explore the dataset of Baggage complaints
 2. Check for stationarity of time series time series plot
